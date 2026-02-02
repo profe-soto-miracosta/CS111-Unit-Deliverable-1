@@ -1,6 +1,8 @@
-# Unit 1 Programming Project #
+# Unit 1 Programming Project
+
 ## Objective
 - Create a Java program using Unit 1 topics to demonstrate knowledge and mastery.
+- 
 ## Requirements
 - Tie it to a real-world topic:
   - Should be linked to an article, podcast, video, etc.
@@ -20,9 +22,20 @@ Labs for larger examples, getting inspiration or ideas
 ## EARN Grade
 All group members might not receive the same score. Be sure to indicate which parts of the project you contributed. You may also be asked to explain portions of the code so that I can distinguish your personal understanding of the material.
 
-| Score               | Description                                                                                                                                                                       |
-|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **E**xemplary       | Everything for an A plus code is well-documented and follows all course style conventions. This work could be used as a classroom example.                                        |
-| **A**cceptable      | Understanding of the concepts is evident. Code compiles and runs without errors. All of the requirements are met.                                                                 |
-| **R**evision Needed | Partial understanding of the concepts is evident, but there are significant gaps. Further review and improvements required. Program does not run or not all requirements are met. |
-| **N**ot Assessable  | Not enough information is present in the work to determine whether there is understanding of the concepts.                                                                        |
+🚀 **E**xemplary
+- Everything for an A.
+- Code is well-documented and follows all course style conventions.
+- This work could be used as a classroom example.
+
+✅ **A**cceptable
+- Understanding of the concepts is evident.
+- Code compiles and runs without errors.
+- All of the requirements are met.
+
+🔧 **R**evision Required
+- Partial understanding of the concepts is evident, but there are significant gaps.
+- Further review and improvements required.
+- Program does not run or not all requirements are met.
+
+❌ **N**ot Assessable
+- Not enough information is present in the work to determine whether there is understanding of the concepts.
