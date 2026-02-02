@@ -1,7 +1,7 @@
 # Unit 1 Programming Project #
-## Goal: ##
+## Goal
 _Create a Java program using Unit 1 topics to demonstrate knowledge and mastery._
-## Requirements: ##
+## Requirements
 - Tie it to a real-world topic:
   - Should be linked to an article, podcast, video, etc.
 OR 
@@ -12,12 +12,12 @@ OR
   - Demonstration of some sort of calculation or transformation of data
   - Formatted output used in a meaningful way
 
-## Resources: ##
+## Resources
 OLI Modules + Lecture Videos for examples, Java syntax rules, and strategy
 
 Labs for larger examples, getting inspiration or ideas
 
-## Scoring Guide: ##
+## EARN Grade
 All group members might not receive the same score. Be sure to indicate which parts of the project you contributed. You may also be asked to explain portions of the code so that I can distinguish your personal understanding of the material.
 
 | Score               | Description                                                                                                                                                                       |
