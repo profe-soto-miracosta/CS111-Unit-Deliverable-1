@@ -2,7 +2,7 @@
 
 ## Objective
 - Create a Java program using Unit 1 topics to demonstrate knowledge and mastery.
-- 
+
 ## Requirements
 - Tie it to a real-world topic:
   - Should be linked to an article, podcast, video, etc.
